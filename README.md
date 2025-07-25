@@ -61,3 +61,4 @@ The application will be available at `http://localhost:8501` by default.
 - `requirements.txt` - Project dependencies
 # Learning-Path-Generator-with-Model-Context-Protocol-MCP-
 # Learning-Path-Generator-with-Model-Context-Protocol-MCP-
+# Learning-Path-Generator-with-Model-Context-Protocol-MCP-
